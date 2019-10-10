@@ -1,0 +1,12 @@
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/bin/Debug/NaiveBayer.exe
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/bin/Debug/NaiveBayer.pdb
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.csprojAssemblyReference.cache
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.csproj.CoreCompileInputs.cache
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.exe
+/Users/evgeny/Projects/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.pdb
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/bin/Debug/NaiveBayer.exe
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/bin/Debug/NaiveBayer.pdb
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.csprojAssemblyReference.cache
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.csproj.CoreCompileInputs.cache
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.exe
+/Users/evgeny/Desktop/final/digital/NaiveBayer/NaiveBayer/obj/Debug/NaiveBayer.pdb
